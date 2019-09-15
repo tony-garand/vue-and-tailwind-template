@@ -1,0 +1,10 @@
+.idea/
+htLandingDist/
+node_modules/
+.env
+vendor/
+storage/*
+.DS_Store
+templates/index.twig
+dist/
+index.html
