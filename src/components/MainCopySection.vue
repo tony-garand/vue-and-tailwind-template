@@ -12,7 +12,7 @@
                 <li><div class="text-center md:text-left text-lg md:text-3/2xl px-4 md:ml-4 md:py-4 py-2"><span class="font-bold text-dark-blue font-sans">Expensive Repairs</span></div></li>
             </ul>
             <ul class="pl-0">
-                <li class="boxed-list-item"><div class="pl-11 ml-2 md:pl-64 md:-ml-64"><span class="text-lg leading-relaxed text-white absolute pt-8 md:pt-10 font-display md:text-3/2xl">IF YOU REPLACED YOUR AC UNIT RIGHT AFTER HURRICANE KATRINA, IT’S TIME TO REPLACE IT AGAIN.</span></div></li>
+                <li class="boxed-list-item"><div class="pl-11 ml-2 md:pl-64 md:-ml-64"><span class="text-lg leading-relaxed text-white absolute pt-6 font-display md:text-3/2xl">IF YOU REPLACED YOUR AC UNIT RIGHT AFTER HURRICANE KATRINA, IT’S TIME TO REPLACE IT AGAIN.</span></div></li>
             </ul>
         </div>
     </div>
